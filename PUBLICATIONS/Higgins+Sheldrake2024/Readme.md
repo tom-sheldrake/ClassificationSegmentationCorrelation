@@ -1,4 +1,4 @@
-** Output data and supplementary files associated with Higgins & Sheldrake (2024) **
+Output data and supplementary files associated with Higgins & Sheldrake (2024)
 
 This folder contains the four primary output folders for each step that occur in the schema presented in the root directory.
 
