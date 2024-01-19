@@ -8,4 +8,4 @@ This folder contains the four primary output folders for each step of the Classi
 
 Each folder contains the relevant output data for each step, which are represented by yellow blocks in the schema.
 
-Additionally, a fifth folder is present, which contains an excel workbook ("Supplementary_Tables.xlsx) with Tables S1 - S6 and a csv file with a summary table for each plagioclase pixel from all 15 samples ("ZG7_AllData.csv").
+Additionally, a fifth folder is present, which contains an excel workbook ("Supplementary_Tables.xlsx) with Tables S1 - S6 and a csv file with a summary table for each plagioclase pixels from all 15 samples ("ZG7_AllData.csv").
