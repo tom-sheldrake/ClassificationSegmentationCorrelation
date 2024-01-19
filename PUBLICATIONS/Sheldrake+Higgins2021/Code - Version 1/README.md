@@ -1,4 +1,4 @@
-# Mineral-zonation-CSC
+# CSC method version1
 A methodology to segment and correlate zoned phenocrysts
 
 All instructions for use can be found in the files:
