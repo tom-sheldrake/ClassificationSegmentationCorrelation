@@ -4,6 +4,8 @@ This version accompanies the manuscript by Sheldrake & Higgins (2021), in which 
 
 Sheldrake, T., & Higgins, O. (2021). Classification, segmentation and correlation of zoned minerals. Computers & Geosciences, 156, 104876.
 
+-
+
 Version 2: Last updated January 2024
 
 This version accompanies the manuscript by Higgins & Sheldrake (2024), in which the methodology is explained.
