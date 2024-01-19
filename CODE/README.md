@@ -13,4 +13,4 @@ This version accompanies the manuscript by Higgins & Sheldrake (2024), in which 
 Higgins, O., & Sheldrake, T., (2024). Identifying distinct pre-eruptive composition-H2O-time trends using plagioclase. Geochemistry, Geophysics, Geosystems.
 
 Summary of updates from version 1:
-1. 
+
