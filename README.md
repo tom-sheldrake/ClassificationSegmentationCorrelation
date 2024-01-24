@@ -1,10 +1,10 @@
 # Classification, Segementation, and Correlation (CSC) of zoned minerals
 
-<ins>Subfolders:</ins><br>
+This resposity contains the following subfolders related to the CSC methodology published in Sheldrake & Higgins (2021) and Higgins & Sheldrake (2024):<br>
 1. CODES - This contains version 1 and 2 of the CSC Code
 2. DATA - This contains all data used in either the EXAMPLES or PUBLICATIONS folder
-3. PUBLICATIONS - This contains output data (yellow blocks in figure below) for published articles
-4. EXAMPLES - This contains an example a setp through guide of the latest version of the code
+3. EXAMPLES - This contains an example a setp through guide of the latest version of the code
+4. PUBLICATIONS - This contains output data (yellow blocks in figure below) for published articles
 
 ![CSC schema](CSC_schema.jpg)
 
