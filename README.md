@@ -1,4 +1,10 @@
-# Classification, Segementation, and Correlation of zoned minerals
+# Classification, Segementation, and Correlation (CSC) of zoned minerals
+
+<ins>Subfolders:</ins><br>
+1. CODES - This contains version 1 and 2 of the CSC Code
+2. DATA - This contains all data used in either the EXAMPLES or PUBLICATIONS folder
+3. PUBLICATIONS - This contains output data (yellow blocks in figure below) for published articles
+4. EXAMPLES - This contains an example a setp through guide of the latest version of the code
 
 ![CSC schema](CSC_schema.jpg)
 
