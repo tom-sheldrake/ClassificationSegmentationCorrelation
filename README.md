@@ -3,7 +3,7 @@
 This resposity contains the following subfolders related to the CSC methodology published in Sheldrake & Higgins (2021) and Higgins & Sheldrake (2024):<br>
 1. CODES - This contains version 1 and 2 of the CSC Code
 2. DATA - This contains all raw Electron Microprobe maps used in either the EXAMPLES or PUBLICATIONS folder
-3. EXAMPLES - This contains an example and step through guide of the latest version of the code
+3. EXAMPLE - This contains an example and step through guide of the latest version of the code
 4. PUBLICATIONS - This contains output data (yellow blocks in figure below) for published articles, and additional supplementary material
 
 ![CSC schema](CSC_schema.jpg)
