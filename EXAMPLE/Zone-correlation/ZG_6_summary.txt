@@ -1,0 +1,18 @@
+$SamplesAll
+[1] "SK394A" "SK394C"
+
+$PhaseName
+[1] "plag"
+
+$Variables
+[1] "An"
+
+$rel.scale
+[1] FALSE
+
+$`Results Dir`
+[1] "06Feb2024_11hr51"
+
+$nClus
+[1] 6
+

@@ -1,0 +1,12 @@
+$Sample
+[1] "SK394A"
+
+$`Elements 1`
+[1] "Al" "Si"
+
+$`Elements 2`
+[1] "Ca" "Fe" "Mg" "Na" "K" 
+
+$`max clusters`
+[1] 10
+

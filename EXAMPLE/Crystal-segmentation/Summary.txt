@@ -1,0 +1,33 @@
+$PhaseName
+[1] "plag"
+
+$pix_um
+[1] 20
+
+$minArea
+[1] 32400
+
+$Variables
+[1] "An"
+
+$nIters
+[1] 50
+
+$rel.scale
+[1] FALSE
+
+$S_manual
+[1] NA
+
+$minS
+[1] 5
+
+$M_manual
+[1] NA
+
+$minM
+[1] 0
+
+$q_choice
+[1] 0.001
+

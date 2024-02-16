@@ -1,0 +1,6 @@
+$`Input folder`
+[1] "05Feb2024_14hr52"
+
+$`Chosen models`
+[1] "Si.Ca" "Al.Ca" "Si.Fe" "Al.Mg" "Si.Mg" "Al.Na" "Al.K"  "Si.K" 
+

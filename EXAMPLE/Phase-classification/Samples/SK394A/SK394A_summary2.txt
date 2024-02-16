@@ -1,0 +1,24 @@
+$`Phase name`
+[1] "plag"
+
+$`Phase number`
+[1] 4
+
+$`New variables`
+$`New variables`[[1]]
+[1] "An"
+
+
+$`Calibration variables`
+$`Calibration variables`[[1]]
+[1] "Ca"
+
+
+$`Calibration function`
+$`Calibration function`[[1]]
+function (x) 
+{
+    0.568870275328066 + (0.0202605542262244 * x)
+}
+
+
